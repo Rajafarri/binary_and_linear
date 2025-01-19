@@ -125,4 +125,5 @@ This project provided hands-on experience with both Linear Search and Binary Sea
 By analyzing the differences between the two algorithms, I have gained insights into choosing the appropriate search technique depending on the dataset and use case.
 
 ## LinkedIn:
- Here is my linkedIn post's link: 
+ Here is my linkedIn post's link:
+ https://www.linkedin.com/mwlite/feed/update/activity:7286698025211617281?trk=share-post-success
